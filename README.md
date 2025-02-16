@@ -11,6 +11,9 @@ This project is designed to monitor and fetch PM2.5 particulate matter data usin
 ## Data Source
 This project fetches data from [sensor.community](https://sensor.community/), which provides real-time air quality data from various sensors around the world.
 
+## Hardware Used
+This project utilizes an ESP32 microcontroller, which provides WiFi connectivity and sufficient processing power for handling sensor data. The PM2.5 sensor is used to measure particulate matter in the air, while a temperature sensor provides additional environmental data.
+
 ## Libraries Used
 - Arduino
 - WiFi
