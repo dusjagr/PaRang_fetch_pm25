@@ -14,6 +14,13 @@ This project fetches data from [sensor.community](https://sensor.community/), wh
 ## Hardware Used
 This project utilizes an ESP32 microcontroller, which provides WiFi connectivity and sufficient processing power for handling sensor data. The PM2.5 sensor is used to measure particulate matter in the air, while a temperature sensor provides additional environmental data.
 
+## Sensors Used
+1. **BMP280**: Measures temperature and pressure.
+2. **SPS30**: Measures particulate matter concentrations.
+
+## Location
+The sensors are deployed at Pa Rang Cafe, located in Thailand at an altitude of 316.7 meters. The exact coordinates are approximately 18.7913° N latitude and 98.9798° E longitude.
+
 ## Libraries Used
 - Arduino
 - WiFi
