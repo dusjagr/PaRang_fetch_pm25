@@ -39,5 +39,10 @@ The sensors are deployed at Pa Rang Cafe, located in Thailand at an altitude of 
 ## Usage
 - Access the web server at your device's IP address to view live sensor data.
 
+## Web Interface Screenshot
+Below is a screenshot of the web interface displaying real-time sensor data:
+
+![Web Interface Screenshot](data/screenshot_webinterface.jpg)
+
 ## License
 This project is licensed under the MIT License.
