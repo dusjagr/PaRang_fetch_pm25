@@ -8,6 +8,9 @@ This project is designed to monitor and fetch PM2.5 particulate matter data usin
 - Web server to display sensor data.
 - Adjusts timestamps to local time (Thailand, UTC+7).
 
+## Data Source
+This project fetches data from [sensor.community](https://sensor.community/), which provides real-time air quality data from various sensors around the world.
+
 ## Libraries Used
 - Arduino
 - WiFi
